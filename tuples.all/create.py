@@ -1,0 +1,12 @@
+t1=()
+t2=(10,20,30,40)
+t3=(10,"pavan",20.5,True,[],())
+t4=tuple(range(10))
+l1=[10,20,30,40]
+s1={10,20,30,40}
+print(t1)
+print(t2)
+print(t3)
+print(t4)
+print(l1)
+print(s1)
